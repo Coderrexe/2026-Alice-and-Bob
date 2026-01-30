@@ -1,1 +1,3 @@
-# 2026-Alice-and-Bob
+# Alice & Bob x MIT iQuHACK 2026 Challenge
+
+Challenge materials are in `challenge/`.

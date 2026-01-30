@@ -1,0 +1,1 @@
+This folder contains additional resources that you may find helpful but are completely optional to review. 
